@@ -78,7 +78,7 @@ Contributions to BlueRabbit are welcome! Please follow these steps:
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Contact
-If you have any questions, issues, or suggestions, please open an issue on the GitHub repository or contact the maintainer at [your-email@example.com](mailto:your-email@example.com).
+If you have any questions, issues, or suggestions, please open an issue on the GitHub repository or contact the maintainer at [hasani.ramin@icloud.com](hasani.ramin@icloud.com).
 
 Enjoy playing and modifying BlueRabbit!
 
